@@ -1,0 +1,126 @@
+Oracle Tool - Histórico das versões
+
+Versão 2.0
+==========
+
+Release 12/11/2009
+
+- Suporte ao comando DESC para mostrar estrutura das tabelas.
+
+- Quando houver mais de um comando no editor de SQL, não é mais necessário selecionar
+  o comando, basta deixar o cursor em qualquer parte do comando e apertar F9.
+
+Release 14/01/2010
+
+- Incluída opção para impressão da consulta atual.
+
+Release 20/01/2010
+
+- Incluída Opção para geração da consulta em arquivo.
+
+Versão 3.0
+==========
+
+Release 08/02/2010
+
+- Adicionada nova opção para geração de arquivo de script para 
+  importação de dados a partir de um arquivo CSV.
+  
+Versão 3.1
+==========  
+  
+Release 24/03/2010
+
+- Corrigidos bugs na aba "Tabelas".
+
+- Corrigido problema na opção "Imprimir" do Editor de SQL.
+
+- Adicionada opção de adicionar campos ao editor de SQL através do duplo clique no campo ao utilizar
+  comando DESC para uma tabela.
+  
+- Comando DESC agora traz os campos ordenados por ordem de criação.
+
+Versão 3.5
+==========  
+  
+Release 12/07/2011
+
+- Colocados botões para Salvar e Carregar configurações de importação de dados.
+
+- Editor do Oracle Tool agora rodar scripts externos através do @.
+
+- Incluído nome do usuário na barra de título.
+
+Versão 3.7
+==========
+
+Release 20/07/2011
+
+- Novo botão de Editor de Procedures (Experimental).
+
+- Alterada aba de procedures para trazer também as funções compiladas no banco de dados.
+
+- Melhorias nos editores de SQL.
+
+- Nova tela de Login.
+
+Versão 3.8
+==========
+
+Release 03/10/2011
+
+- Alterada ordenação de campos de tabela de destino no utilitário de importação de dados.
+
+Versão 3.8.5
+============
+
+Release 18/10/2011
+
+- Corrigido problema no botão de impressão.
+
+- Corrigido problema quando havia múltiplos selects.
+
+Versão 3.9
+============
+
+Release 12/12/2011
+
+- Adicionado recurso de busca no Editor de SQL e no Editor de Procedures.
+
+Versão 3.9.1
+============
+
+Release 10/02/2012
+
+- Corrigido problema que ocorria quando executava um comando com select aninhado.
+
+
+Versão 3.9.2
+============
+
+Release 17/02/2012
+
+- Na aba "Tabelas" agora é possível ver as triggers que estão relacionadas a tabela selecionada.
+
+- Adicionado botões de "Atualizar" na aba "Tabelas" e "Procedures".
+
+- Melhorias pequenas no visual.
+
+Versão 3.9.3
+============
+
+- Tratamento de erros para execução de scripts.
+
+Versão 3.9.4
+============
+
+- Corrigido erro que não permitia mostrar o código fonte de funções.
+
+Versão 3.9.5
+============
+
+- Corrigido problema ao comentar linhas em um comando usando hífen.
+
+- Tela de busca agora é fechada com ESC.
+
+- Verificação de nova versão disponível no FTP.

@@ -1,0 +1,66 @@
+BDE Migration Wizard log
+
+Created at: 19/08/2014 15:04:57
+
+Initializing unit list
+
+Creating backup folder
+
+Allocating temporary folder
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Main.pas
+
+20 change(s)
+
+Processing file: C:\seculus\Programas\OracleToolODAC\DescTable.pas
+
+2 change(s)
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Relatorio.pas
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Login.pas
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\EditorProc.pas
+
+3 change(s)
+
+Processing file: C:\seculus\Programas\OracleToolODAC\untLocalizar.pas
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Main.DFM
+
+14 change(s)
+
+Processing file: C:\seculus\Programas\OracleToolODAC\DescTable.DFM
+
+1 change(s)
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Relatorio.DFM
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\Login.DFM
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\EditorProc.DFM
+
+No changes
+
+Processing file: C:\seculus\Programas\OracleToolODAC\untLocalizar.DFM
+
+No changes
+
+Replacing original files with changed versions
+
+Backup file: C:\seculus\Programas\OracleToolODAC\RBackup\RExpert.reu
+
+Removing temporary folder
+
+Replace procedure was performed sucessfully.
+
